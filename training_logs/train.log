@@ -1,0 +1,50 @@
+[2021-10-08 19:23:17,651 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 19:23:17,652 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 19:23:17,657 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 19:23:17,723 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 19:23:17,723 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 19:29:24,419 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 19:29:24,420 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 19:29:24,426 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 19:29:24,452 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 19:29:24,452 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 19:32:03,069 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 19:32:03,070 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 19:32:03,075 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 19:32:03,097 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 19:32:03,098 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 19:32:33,705 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 19:32:33,707 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 19:32:33,712 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 19:32:33,734 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 19:32:33,735 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 19:38:34,350 - [32mINFO[0m - train.py:535] -> Number of training images: 1567
+[2021-10-08 19:38:34,351 - [32mINFO[0m - train.py:537] -> Number of validation images: 672
+[2021-10-08 19:54:21,655 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 19:54:21,656 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 19:54:21,661 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 19:54:21,686 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 19:54:21,687 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 19:54:27,188 - [32mINFO[0m - train.py:535] -> Number of training images: 1567
+[2021-10-08 19:54:27,188 - [32mINFO[0m - train.py:537] -> Number of validation images: 672
+[2021-10-08 20:06:47,211 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 20:06:47,212 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 20:06:47,216 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 20:06:47,239 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 20:06:47,240 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 20:06:52,876 - [32mINFO[0m - train.py:535] -> Number of training images: 1567
+[2021-10-08 20:06:52,877 - [32mINFO[0m - train.py:537] -> Number of validation images: 672
+[2021-10-08 20:17:17,905 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 20:17:17,906 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 20:17:17,911 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 20:17:17,938 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 20:17:17,938 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 20:17:23,440 - [32mINFO[0m - train.py:535] -> Number of training images: 1567
+[2021-10-08 20:17:23,440 - [32mINFO[0m - train.py:537] -> Number of validation images: 672
+[2021-10-08 20:27:22,582 - [32mINFO[0m - train.py:296] -> distributed mode: OFF
+[2021-10-08 20:27:22,583 - [32mINFO[0m - train.py:301] -> No validation image directory specified, will assume the same image directory for train and val
+[2021-10-08 20:27:22,589 - [32mINFO[0m - train.py:308] -> training image dimensions: 512,512
+[2021-10-08 20:27:22,613 - [32mINFO[0m - train.py:311] -> CUDA available: True
+[2021-10-08 20:27:22,613 - [32mINFO[0m - train.py:312] -> torch.__version__ = 1.9.0+cu111
+[2021-10-08 20:27:28,091 - [32mINFO[0m - train.py:535] -> Number of training images: 1567
+[2021-10-08 20:27:28,091 - [32mINFO[0m - train.py:537] -> Number of validation images: 672
