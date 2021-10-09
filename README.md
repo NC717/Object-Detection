@@ -14,12 +14,13 @@
 # Predictions from the trained model
 
 
-![img1](https://github.com/yhenon/pytorch-retinanet/blob/master/images/1.jpg)
-![img2](https://github.com/yhenon/pytorch-retinanet/blob/master/images/2.jpg)
-![img4](https://github.com/yhenon/pytorch-retinanet/blob/master/images/4.jpg)
-![img6](https://github.com/yhenon/pytorch-retinanet/blob/master/images/6.jpg)
-![img7](https://github.com/yhenon/pytorch-retinanet/blob/master/images/7.jpg)
-![img8](https://github.com/yhenon/pytorch-retinanet/blob/master/images/8.jpg)
+![img1](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001249.jpg?raw=true "")
+![img2](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001260.jpg?raw=true "")
+![img4](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001263.jpg?raw=true "")
+![img6](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001264.jpg?raw=true "")
+![img7](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001269.jpg?raw=true "")
+![img8](https://github.com/NC717/Object-Detection/blob/main/predictions_from_model/image_000001293.jpg?raw=true "")
+
 
 
 
